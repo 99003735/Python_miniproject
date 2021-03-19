@@ -37,8 +37,6 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 
  
 
-![Capture1](https://user-images.githubusercontent.com/78864900/111418016-e833d380-870c-11eb-81e2-626dd342fa8f.PNG)
-
  
 
 # 4W&#39;s and 1&#39;H
