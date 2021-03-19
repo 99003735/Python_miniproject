@@ -33,7 +33,7 @@ It is a Data Set problem that will allow to users to retrive data from data set.
  
 
   
-## SWOT ANALYSIS
+
 
  
 
@@ -48,9 +48,6 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 *    For checking the information of people who spents on bills
  
 
-
-*TBD*
-
  
 
 ## What:
@@ -59,9 +56,6 @@ It is a Data Set problem that will allow to users to retrive data from data set.
  *    provides information of every person details on bills
 
  
-
-
-*TBD*
 
  
 
@@ -75,19 +69,12 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 
  
 
-*TBD*
-
- 
-
 ## Where:
 *    To check the information 
 *    Very useful during emergency times to kown about bills
 
 
  
-
-
-*TBD*
 
  
 
